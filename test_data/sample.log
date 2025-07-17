@@ -1,0 +1,2 @@
+2025-07-12 22:38:17,123 - ERROR - Failed to connect to database
+127.0.0.1 - - [12/Jul/2025:22:38:17 +0000] "GET /index.html HTTP/1.1" 200 1024
